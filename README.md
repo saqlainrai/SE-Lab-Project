@@ -12,3 +12,10 @@
 - Password Manager
 - Expense Tracker
 
+### Current Log
+- Build the infrastructure for the website
+- Build the login page
+- Configured the npm for the project
+- Incorporated the gulp pipeline for automation 
+
+### Required Met for Now!
